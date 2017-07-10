@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PickMyCloths</string>
+    <string name="action_settings">Settings</string>
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="add_image">Add Image</string>
+    <string name="title_activity_display_image">DisplayImage</string>
+    <string name="image_information">Image Information</string>
+</resources>

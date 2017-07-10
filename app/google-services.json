@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228342578886",
+    "project_id": "firebase-pickmycloth"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228342578886:android:52f65df5f9b43e15",
+        "android_client_info": {
+          "package_name": "exaample.com.pickmycloth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228342578886-9sojvivfs57q20u76vc4dl7mlkoqkvaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exaample.com.pickmycloth",
+            "certificate_hash": "3b512a77fefcd4c3c79d9fd0ee840f10277b0e7b"
+          }
+        },
+        {
+          "client_id": "228342578886-gr1ot7qh7g83jaikbkt61chlvr79ovvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyz4pTJ0m0DSsIfytCvVpBtgIsFrH_noU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
